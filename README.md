@@ -12,7 +12,7 @@ This Python code simulates an airport traffic control system, managing takeoffs,
 No installation is required. Simply download or clone the script and run it using Python.
 
 ## Usage
-Run the script `airport_traffic_control.py`:
+Run the script `Low_Traffic_Airport.py`:
 
 ```bash
-python airport_traffic_control.py
+python Low_Traffic_Airport.py
